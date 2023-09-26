@@ -17,3 +17,5 @@ example: `.\lgu2dir.exe upgrade.lgu output`
 ## Credits
 I have no idea who created these tools, I found them on some forum and they work.
 I uploaded them here so they are easier to find and use, and to prevent them from getting lost.
+
+You'll find the source code here if you want to compile it yourself: [yosicovich/MediaNavMods] (https://github.com/yosicovich/MediaNavMods/tree/master/pc/lgutool) 
