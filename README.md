@@ -9,6 +9,7 @@ The firmware update is usually stored on a USB drive and then installed on the M
 ## 📦 Downloads
 | Version       | Download Link | Notes |
 |---------------|---------------|-------|
+| v3.04 | [Download](https://github.com/m-a-x-s-e-e-l-i-g/LGU-file-tools/blob/main/releases/lgu2dir_dir2lgu_V3.04.zip) | Translated to English |
 | v3.03 FavreMod | [Download](https://github.com/m-a-x-s-e-e-l-i-g/LGU-file-tools/blob/main/releases/lgu2dir_dir2lgu_V3.03_FavreMod.zip) | Made compatible with MN1 6.0.3MD |
 | v2.0.1         | [Download](https://github.com/m-a-x-s-e-e-l-i-g/LGU-file-tools/blob/main/releases/lgu2dir_dir2lgu_V2.0.1.zip)         | Fixed some bugs, added the ability to close upgrade.lgu also for MEDIANAV EVO |
 | Legacy         | [Download](https://github.com/m-a-x-s-e-e-l-i-g/LGU-file-tools/blob/main/releases/lgu2dir_dir2lgu_legacy.zip)         | Predates known releases |
